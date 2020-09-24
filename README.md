@@ -32,4 +32,4 @@ tkn = 'YOUR_TOKEN_HERE'
   ```
   
   
-Navigate to the project directory and run ```main.py`` with either ```python3 main,py``` for Linux or ```py -3 main.py``` for Windows.
+Navigate to the project directory and run ```main.py``` with either ```python3 main,py``` for Linux or ```py -3 main.py``` for Windows.
