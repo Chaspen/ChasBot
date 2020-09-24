@@ -1,7 +1,7 @@
 # ChasBot
 Basic Discord bot
 
-#Setup
+# Setup
 - Get an account at the [Discord Developer Portal](https://discord.com/developers)
 - Make a new application and name it
 - Go under "Bot"
@@ -14,18 +14,18 @@ tkn = 'YOUR_TOKEN_HERE'
 ```
 
 
-#Running
+# Running
 
 [Python 3.8](https://www.python.org/) or above is required.
 
-##Windows
+## Windows
   Open up a CMD or Powershell window and run:
   ```
   py -3 -m pip install -U discord.py[voice]
   ```
   
   
-##Linux
+## Linux
   Open up a terminal and run:
   ```
   python3 -m pip install -U discord.py[voice]
